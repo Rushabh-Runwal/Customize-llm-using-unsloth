@@ -33,7 +33,7 @@ Each section is backed by working Colab notebooks and recorded videos explaining
 
 ---
 
-## 📹 (Video Walkthroughs)[youtube.com]
+## 📹 [Video Walkthroughs](www.youtube.com)
 
 Each notebook is accompanied by a recorded video walkthrough where I explain:
 - The architecture used
