@@ -1,9 +1,22 @@
+
 # 🧠 Customize LLMs using Unsloth
 
 This repository contains my solutions to the **LLM Finetuning Assignment** using [Unsloth](https://unsloth.ai), exploring multiple use cases like finetuning, continued pretraining, chat templates, reward modeling, and deployment with Ollama.  
 Each section is backed by working Colab notebooks and recorded videos explaining the process, dataset, input formats, and expected outputs.
 
 > 📌 **Submission Deadline:** March 20, 2025
+
+---
+
+## 📹 [Video Walkthroughs](https://youtu.be/YRvvTfjl00c)
+
+Each notebook is accompanied by a recorded video walkthrough where I explain:
+- The architecture used
+- Dataset preparation
+- Input format and prompt engineering
+- Finetuning logic
+- Evaluation or inference
+- Any challenges faced and how they were resolved
 
 ---
 
@@ -31,19 +44,6 @@ Each section is backed by working Colab notebooks and recorded videos explaining
 | **(f)** Finetune for Mental Health Chatbot | Based on Microsoft Phi-3 | [Colab 6](https://colab.research.google.com/drive/13ozUQeKyHCQ3xYM3eD0z0sAQEcZXlt82?usp=sharing) |
 | **(g)** Ollama Export + Inference | Finetune and run model via Ollama | [Colab 7](https://colab.research.google.com/drive/1HsXWAlliPRHFKuPmIHwDuEVIv402L6zF?usp=sharing) |
 
----
-
-## 📹 [Video Walkthroughs](www.youtube.com)
-
-Each notebook is accompanied by a recorded video walkthrough where I explain:
-- The architecture used
-- Dataset preparation
-- Input format and prompt engineering
-- Finetuning logic
-- Evaluation or inference
-- Any challenges faced and how they were resolved
-
----
 
 ## 🔗 Helpful Resources & References
 
