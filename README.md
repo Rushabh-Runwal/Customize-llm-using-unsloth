@@ -4,9 +4,6 @@
 This repository contains comprehensive solutions for **LLM Finetuning and Customization** using [Unsloth](https://unsloth.ai), exploring advanced use cases like finetuning, continued pretraining, chat templates, reward modeling (DPO/ORPO), and deployment with Ollama.  
 Each section includes optimized Colab notebooks with detailed explanations, performance benchmarks, and best practices for production deployment.
 
-> 🚀 **Latest Update:** November 2024 - Added RLHF integration and improved memory optimization
-> 📌 **Status:** Production Ready
-
 ---
 
 ## 📹 [Video Walkthroughs](https://youtu.be/YRvvTfjl00c) & 📊 Performance Metrics
