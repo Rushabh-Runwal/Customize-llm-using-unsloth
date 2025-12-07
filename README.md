@@ -6,7 +6,7 @@ Each section includes optimized Colab notebooks with detailed explanations, perf
 
 ---
 
-## 📹 [Video Walkthroughs](https://youtu.be/YRvvTfjl00c) & 📊 Performance Metrics
+## 📹 [Video Walkthroughs](https://youtu.be/mJdNxITeACs) & 📊 Performance Metrics
 
 Each notebook includes comprehensive documentation with:
 - **Architecture Overview**: Model selection and optimization strategies
